@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:5:5-19:19
+	android:label
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:7:9-45
+activity#com.example.DBPersons.MainActivity
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:9:9-17:20
+	android:label
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:10:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.DBPersons.AddActivity
+ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml:18:19-67
+uses-sdk
+INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Delican\Desktop\4.10. MiniProject v.2\app\src\main\AndroidManifest.xml
